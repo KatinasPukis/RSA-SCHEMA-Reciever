@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\bin\Debug\RSA SCHEMA Reciever.exe.config
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\bin\Debug\RSA SCHEMA Reciever.exe
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\bin\Debug\RSA SCHEMA Reciever.pdb
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA SCHEMA Reciever.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA_SCHEMA_Reciever.Form1.resources
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA_SCHEMA_Reciever.Properties.Resources.resources
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA SCHEMA Reciever.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA SCHEMA Reciever.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA SCHEMA Reciever.exe
+C:\Users\domin\source\repos\RSA SCHEMA Reciever\RSA SCHEMA Reciever\obj\Debug\RSA SCHEMA Reciever.pdb
